@@ -47,17 +47,6 @@
 - **Full-Stack Social Media Platform** — MERN app with JWT auth, media uploads, and email flows, built as a monorepo with MVC on the backend.
 - **PMI (Project Memory Intelligence)** — Hackathon concept: an AI-powered searchable memory for software projects, ingesting GitHub data.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohyeldinM-Mady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=MohyeldinM-Mady&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohyeldinM-Mady&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
 ## ⚡ Beyond the Code
 
 Football, volleyball, swimming, padel, and gym keep me busy off-screen — and I'm always up for a round of Estimation or Dominoes. Also a certified cat person, currently campaigning to adopt one.
@@ -65,5 +54,7 @@ Football, volleyball, swimming, padel, and gym keep me busy off-screen — and I
 <div align="center">
 
 *Thanks for stopping by — let's connect!*
+
+📧 [mohie.yakout@gmail.com](mailto:mohie.yakout@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mohyeldin-mady-yakout)
 
 </div>
