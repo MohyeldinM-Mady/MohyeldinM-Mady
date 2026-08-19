@@ -44,7 +44,7 @@
 ## 📌 Featured Projects
 
 - **PitIQ** — Full-stack quiz platform (NestJS · PostgreSQL · Prisma). Owned the Question Bank module end-to-end, led a many-to-many schema redesign, and shipped 21 Jest tests.
-- **Full-Stack Social Media Platform** — MERN app with JWT auth, media uploads, and email flows, built as a monorepo with MVC on the backend.
+- **[Full-Stack Social Media Platform](https://github.com/MohyeldinM-Mady/social-media-platform)** — MERN app with JWT auth, follow/unfollow, personalized Home + Explore feeds, posts with image uploads/likes/comments, global search via MongoDB text indexes, a real-time notification engine, and a dark/light mode UI with glassmorphism styling.
 - **PMI (Project Memory Intelligence)** — Hackathon concept: an AI-powered searchable memory for software projects, ingesting GitHub data.
 - **[E-Learning Student Performance Predictor](https://github.com/MohyeldinM-Mady/ML-Project)** — ML project on the OULAD dataset, covering regression (Linear Regression, Random Forest) and multi-class classification (Random Forest, Gradient Boosting, Decision Tree) to predict student outcomes.
 - **[Autocomplete System](https://github.com/EyadFarouk/Data-structure)** — Data Structures course project built with a team, using DFS/BFS graph traversal for word prediction and search. Supports wildcard pattern matching (`*` and `_`), filtering by frequency/lexicographical order/length, and add/delete word management by exact match or prefix.
