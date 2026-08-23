@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/86965359?v=4" width="120" style="border-radius: 50%;" alt="Mohyeldin Mady avatar"/>
+
 
 <h1>Hi, I'm Mohyeldin Mady 👋</h1>
 
