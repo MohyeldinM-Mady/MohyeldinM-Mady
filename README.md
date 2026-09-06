@@ -14,10 +14,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Junior CS student at **Ain Shams University**, FCIS — Scientific Computing Department (graduating July 2027)
+- 🎓 Senior CS student at **Ain Shams University**, FCIS — Scientific Computing Department (graduating July 2027)
 - 🔭 Building full-stack skills, currently deep in **backend development with NestJS**
 - 🧩 Comfortable across the stack: **MERN, NestJS, TypeScript, Prisma/TypeORM, Next.js, Tailwind CSS**, and dabbling in Three.js/WebGL
-- 🚀 Always building — from class projects to personal apps and the occasional hackathon idea
+- 🚀 Always building — from class projects to personal apps and hackathon ideas
 - 🎯 Goal: land a backend/full-stack internship or job while shipping solid personal projects
 - ⚡ Fun fact: extremely extroverted, and probably the loudest person at any Estimation or Dominoes table
 
@@ -51,7 +51,7 @@
 
 ## ⚡ Beyond the Code
 
-Football, volleyball, swimming, padel, and gym keep me busy off-screen — and I'm always up for a round of Estimation or Dominoes. Also a certified cat person, currently campaigning to adopt one.
+Football, volleyball, swimming, padel, card & board games and gym keep me busy off-screen — and I'm always up for a round of Estimation or Dominoes. Also a certified cat person, currently campaigning to adopt one.
 
 <div align="center">
 
