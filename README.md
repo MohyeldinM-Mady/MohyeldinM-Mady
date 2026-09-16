@@ -19,7 +19,7 @@
 - 🧩 Comfortable across the stack: **MERN, NestJS, TypeScript, Prisma/TypeORM, Next.js, Tailwind CSS**, and dabbling in Three.js/WebGL
 - 🚀 Always building — from class projects to personal apps and hackathon ideas
 - 🎯 Goal: land a backend/full-stack internship or job while shipping solid personal projects
-- ⚡ Fun fact: extremely extroverted, and probably the loudest person at any Estimation or Dominoes table
+- ⚡ Fun fact: extremely extroverted, and probably the loudest person at any table
 
 ## 🛠️ Tech Stack
 
