@@ -34,7 +34,7 @@ A Data Structures course project exploring word prediction and search with graph
 
 ## Private team projects
 
-**PitIQ** — Quiz-platform backend work with NestJS, PostgreSQL, and Prisma. My existing portfolio work includes the Question Bank module and a many-to-many schema redesign. The team repository is private; source code is not redistributed here.
+**[PitIQ — private fork](https://github.com/MohyeldinM-Mady/quiz-service-internship-round-1-back-end)** — Quiz-platform backend work with NestJS, PostgreSQL, and Prisma. My contributions include the Question Bank module and a many-to-many schema redesign. Forked from the team's repository; access is restricted to authorized collaborators. Visitors without access may see a 404.
 
 **AMIT HR Hub** — A team project with a private backend repository. Implementation details and contribution claims are intentionally limited here until they can be verified and cleared for public sharing.
 
