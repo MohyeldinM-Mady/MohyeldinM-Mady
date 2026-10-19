@@ -1,62 +1,52 @@
-<div align="center">
+# Mohyeldin M. Yakout
 
+### Backend & Full-Stack Development · TypeScript · NestJS · Python
 
+I'm a senior Computer Science student at Ain Shams University, Faculty of Computer and Information Sciences, specializing in Scientific Computing (expected graduation: July 2027). I build backend APIs, full-stack applications, and tools that make project information easier to use.
 
-<h1>Hi, I'm Mohyeldin Mady 👋</h1>
+I'm looking for backend and full-stack internships or junior opportunities.
 
-<a href="https://linkedin.com/in/mohyeldin-mady-yakout">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[LinkedIn](https://www.linkedin.com/in/mohyeldin-mady-yakout)
 
-</div>
+## Selected public projects
 
-<br/>
+### [PMI — Project Memory Intelligence](https://github.com/MohyeldinM-Mady/PMI-Devops-Assistant_prototype)
 
-## 🧑‍💻 About Me
+A Python prototype that turns GitHub commits, issues, pull requests, and Markdown documentation into searchable project memory.
 
-- 🎓 Senior CS student at **Ain Shams University**, FCIS — Scientific Computing Department (graduating July 2027)
-- 🔭 Building full-stack skills, currently deep in **backend development with NestJS**
-- 🧩 Comfortable across the stack: **MERN, NestJS, TypeScript, Prisma/TypeORM, Next.js, Tailwind CSS**, and dabbling in Three.js/WebGL
-- 🚀 Always building — from class projects to personal apps and hackathon ideas
-- 🎯 Goal: land a backend/full-stack internship or job while shipping solid personal projects
-- ⚡ Fun fact: extremely extroverted, and probably the loudest person at any table
+- FastAPI backend and Streamlit interface with account authentication and SQLite chat persistence.
+- Deterministic repository lookups alongside hybrid retrieval with sentence-transformers and ChromaDB.
+- OpenRouter-backed answers and a GitHub Actions workflow for bounded, history-aware PR analysis.
 
-## 🛠️ Tech Stack
+**Explore:** [architecture and setup](https://github.com/MohyeldinM-Mady/PMI-Devops-Assistant_prototype#architecture) · [features](https://github.com/MohyeldinM-Mady/PMI-Devops-Assistant_prototype/blob/main/FEATURES.md) · [testing and limitations](https://github.com/MohyeldinM-Mady/PMI-Devops-Assistant_prototype#testing)
 
-<div align="center">
+### [Social Media Platform](https://github.com/MohyeldinM-Mady/social-media-platform)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+A MERN application with JWT authentication, profiles, follow relationships, Home and Explore feeds, image posts, likes, comments, search, and stored activity notifications. Built with React, Redux Toolkit, Express, and MongoDB.
 
-</div>
+### [E-Learning Student Performance Predictor](https://github.com/MohyeldinM-Mady/ML-Project)
 
-## 📌 Featured Projects
+An educational machine-learning project using OULAD data for assessment-score regression and classification. Includes preprocessing, comparisons across tree-based models, saved model artifacts, and evaluation plots. The README documents the current evaluation limitations.
 
-- **PitIQ** — Full-stack quiz platform (NestJS · PostgreSQL · Prisma). Owned the Question Bank module end-to-end, led a many-to-many schema redesign, and shipped 21 Jest tests.
-- **[Full-Stack Social Media Platform](https://github.com/MohyeldinM-Mady/social-media-platform)** — MERN app with JWT auth, follow/unfollow, personalized Home + Explore feeds, posts with image uploads/likes/comments, global search via MongoDB text indexes, a real-time notification engine, and a dark/light mode UI with glassmorphism styling.
-- **PMI (Project Memory Intelligence)** — Hackathon concept: an AI-powered searchable memory for software projects, ingesting GitHub data.
-- **[E-Learning Student Performance Predictor](https://github.com/MohyeldinM-Mady/ML-Project)** — ML project on the OULAD dataset, covering regression (Linear Regression, Random Forest) and multi-class classification (Random Forest, Gradient Boosting, Decision Tree) to predict student outcomes.
-- **[Autocomplete System](https://github.com/EyadFarouk/Data-structure)** — Data Structures course project built with a team, using DFS/BFS graph traversal for word prediction and search. Supports wildcard pattern matching (`*` and `_`), filtering by frequency/lexicographical order/length, and add/delete word management by exact match or prefix.
+### [Autocomplete System — team project](https://github.com/EyadFarouk/Data-structure)
 
-## ⚡ Beyond the Code
+A Data Structures course project exploring word prediction and search with graph traversal, wildcard matching, and word management. See the original team repository for source and attribution.
 
-Football, volleyball, swimming, padel, card & board games and gym keep me busy off-screen — and I'm always up for a round of Estimation or Dominoes. Also a certified cat person, currently campaigning to adopt one.
+## Private team projects
 
-<div align="center">
+**PitIQ** — Quiz-platform backend work with NestJS, PostgreSQL, and Prisma. My existing portfolio work includes the Question Bank module and a many-to-many schema redesign. The team repository is private; source code is not redistributed here.
 
-*Thanks for stopping by — let's connect!*
+**AMIT HR Hub** — A team project with a private backend repository. Implementation details and contribution claims are intentionally limited here until they can be verified and cleared for public sharing.
 
-📧 [mohie.yakout@gmail.com](mailto:mohie.yakout@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mohyeldin-mady-yakout)
+## Tools I work with
 
-</div>
+- **Backend:** TypeScript, JavaScript, Node.js, NestJS, Express, Python, FastAPI
+- **Data:** PostgreSQL, MongoDB, Prisma, TypeORM, SQLite
+- **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
+- **Workflow:** Git, GitHub, GitHub Actions
+
+## Beyond the code
+
+I enjoy football, volleyball, swimming, padel, board games, and the gym. Always happy to talk projects—or cats.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/mohyeldin-mady-yakout).
