@@ -8,6 +8,16 @@ I'm looking for backend and full-stack internships or junior opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/mohyeldin-mady-yakout)
 
+## Recent hackathon projects
+
+### FLARE — NASA Space Apps Challenge, Cairo 2026
+
+My team’s project for [NASA Space Apps Cairo](https://www.spaceappscairo.com/).
+
+### [Prompt FC — More Than a Hack 2027 at Talent Arena](https://github.com/MohyeldinM-Mady/prompt-fc-more-than-a-hack-2027)
+
+For the online initial challenge, our team built a Python pipeline that uses player and ball tracking and automated event tags to estimate team possession and stoppages frame by frame in a professional football match. The repository includes the inference code, tests, and a technical note on validation.
+
 ## Selected public projects
 
 ### [PMI — Project Memory Intelligence](https://github.com/MohyeldinM-Mady/PMI-Devops-Assistant_prototype)
